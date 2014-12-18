@@ -1,2 +1,2 @@
 My first commit.
-Feature #2
+Updated feature #2
