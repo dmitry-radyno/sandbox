@@ -7,3 +7,5 @@ Updated feature #6
 Updated feature #7
 Feature #8
 Added right now
+
+Release fix 1
